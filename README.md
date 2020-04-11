@@ -7,4 +7,4 @@
 
 * Implementation is in C++, which can be compiled using g++ -std=c++11 meanFilteredTensor.cpp  
 
-* The input to the the function is a float* (an input tensor) and a dimensions std::vector that conatins the extents in each dimension
+* The input to the the function is a float* (input tensor) and a dimensions std::vector that conatins the extents in each dimension. The function returns a float* (output tensor).
